@@ -9,7 +9,7 @@ This project is a comprehensive Excel-based dashboard that analyzes sales and or
 
  2.Charts (Bar, Column, Pie)
  
- 3. Data Cleaning
+3. Data Cleaning
 
  4.Conditional formatting
 
