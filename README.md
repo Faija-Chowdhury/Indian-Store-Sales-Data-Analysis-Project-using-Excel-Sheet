@@ -1,19 +1,12 @@
 # Indian-Store-Sales-Data-Analysis-Project-using-Excel-Sheet
 
-This project is a comprehensive Excel-based dashboard that analyzes sales and order data from an Indian online store. It provides valuable insights into customer behavior, and sales performance.
+This project is a comprehensive Excel-based dashboard that analyzes sales and order data from an Indian online store. It provides valuable insights into customer behavior and sales performance.
 
 # Tools Used:
+
 # Microsoft Excel
 
- 1.Pivot Tables
-
- 2.Charts (Bar, Column, Pie)
- 
-3. Data Cleaning
-
- 4.Conditional formatting
-
-
+ Pivot Tables, Charts (Bar, Column, Pie), Data Cleaning, Conditional formatting.
 
 # Key Insights & Visualizations:
 
