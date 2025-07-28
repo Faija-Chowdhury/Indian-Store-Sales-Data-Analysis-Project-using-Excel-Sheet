@@ -5,13 +5,13 @@ This project is a comprehensive Excel-based dashboard that analyzes sales and or
 # Tools Used:
 # Microsoft Excel
 
-1.Pivot Tables
+ 1.Pivot Tables
 
-2.Charts (Bar, Column, Pie)
+ 2.Charts (Bar, Column, Pie)
+ 
+ 3. Data Cleaning
 
-3. Data Cleaning
-
-4.Conditional formatting
+ 4.Conditional formatting
 
 
 
