@@ -40,12 +40,18 @@ This project is a comprehensive Excel-based dashboard that analyzes sales and or
 
  7. Interactive Slicers – Easily filter by product category, sales channel, and month.
 
+ # Report_Charts :
+ 
+ <img width="1475" height="532" alt="image" src="https://github.com/user-attachments/assets/e22104e7-3bb2-43b6-86b8-9854884fb651" />
+
+
  # Goals Achieved:
+ 
  1. Built an interactive dashboard for quick insights and decision-making.
 
  2. Practiced data cleaning using Excel tools.
 
- 3.Visualized key performance indicators for business reporting.
+ 3. Visualized key performance indicators for business reporting.
 
 # Sample Insights:
 1. Women are more likely to shop (~65%) compared to men.
