@@ -1,4 +1,4 @@
-# Indian-Store-Sales-Data-Analysis-Project-using-Excel-Sheet
+# Commercial-Store-Sales-Data-Analysis-Project-using-Excel-Sheet
 
 This project is a comprehensive Excel-based dashboard that analyzes sales and order data from an Indian online store. It provides valuable insights into customer behavior and sales performance.
 
